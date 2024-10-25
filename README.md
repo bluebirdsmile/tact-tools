@@ -1,14 +1,7 @@
 # tact-utils
-
-[![Awesome TACT](https://awesome.re/badge.svg)](https://github.com/tact-lang/awesome-tact)
-[![Twitter](https://img.shields.io/twitter/follow/LaiskyCai?style=social)](https://twitter.com/LaiskyCai)
-[![Telegram](https://img.shields.io/badge/telegram-laiskycai-blue?logo=telegram)](https://t.me/laiskycai)
-
 A collection of TON Tact templates and tools.
 
 Provides ready-to-use templates for Jetton, NFT, Traits, as well as some commonly used tools.
-
-[Click to view my article on using Tact to implement Jetton & NFTs! 🌟](https://blog.laisky.com/p/ton-tact/)
 
 **Tested on Node.js v22.9**
 
@@ -136,7 +129,7 @@ nft item content: https://s3.laisky.com/uploads/2024/09/nft-sample-item-0.json
 Clone this repo to your project:
 
 ```sh
-git clone https://github.com/Laisky/tact-utils.git
+git clone https://github.com/toptalhook/tact-tools
 ```
 
 Then import the traits you need:
@@ -217,10 +210,6 @@ contract YOUR_CONTRACT with JettonMaster {
 }
 ```
 
-## Helpful Tools
-
--   [TON Converter](https://ario.laisky.com/alias/ton-converter)
--   [Free permanent file storage.](https://ario.laisky.com/alias/doc)
 
 ## Helpful Communites
 
